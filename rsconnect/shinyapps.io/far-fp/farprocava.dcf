@@ -1,0 +1,12 @@
+name: farprocava
+title: farprocava
+username: far-fp
+account: far-fp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9810522
+bundleId: 7662449
+url: https://far-fp.shinyapps.io/farprocava/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

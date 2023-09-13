@@ -1,0 +1,12 @@
+name: PROCAVA
+title: PROCAVA
+username: far-fp
+account: far-fp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9810304
+bundleId: 7662402
+url: https://far-fp.shinyapps.io/PROCAVA/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

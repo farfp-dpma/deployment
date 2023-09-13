@@ -1,0 +1,12 @@
+name: esmea
+title: esmea
+username: rubenzunguze
+account: rubenzunguze
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9694789
+bundleId: 7643393
+url: https://rubenzunguze.shinyapps.io/esmea/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

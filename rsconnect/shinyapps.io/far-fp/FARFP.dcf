@@ -1,0 +1,12 @@
+name: FARFP
+title: FARFP
+username: far-fp
+account: far-fp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9810195
+bundleId: 7662388
+url: https://far-fp.shinyapps.io/FARFP/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
